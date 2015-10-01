@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+
+
+//lab1
 public class ifrandomN {
 
 

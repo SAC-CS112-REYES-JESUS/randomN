@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class randomN 
 {
 
+	//lab2
 	
 	public static void main(String[] args)
 	
@@ -21,7 +22,7 @@ public class randomN
 	
 			
 	if(userNum==computerNum)
-		{
+	{
 		System.out.println("You guess the correct number ;]");
 		}
 		
@@ -29,10 +30,11 @@ public class randomN
 		{
 		System.out.println("You number is greater than the number ;{");
 		}
-		else if(userNum<computerNum)
-		{
+		else
+		
 		System.out.println("You number is to small ;P");
-		}
+	
+	
 	
 	System.out.printf("The random number is: %d",computerNum);
 	
