@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class randomN 
 {
 
-	//lab2
+	//lab3
 	
 	public static void main(String[] args)
 	
